@@ -1,0 +1,21 @@
+.image-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(285px, 1fr));
+    grid-gap: 1px 5px;
+    grid-auto-rows: 10px;
+    width:95%;
+}
+
+.image-list img {
+    width: 100%;
+}
+
+.card{
+    padding: 10px 35px 10px 35px;
+    margin : 7px 7px;
+    box-shadow: 12px 12px 32px rgba(13, 39, 80, 0.25), -10px -10px 15px white;
+}
+.card:hover{
+    box-shadow: inset 4px 4px 8px rgba(13, 39, 80, 0.25),inset -4px -4px 8px white;
+	transform: rotate(360deg) !important;
+}
