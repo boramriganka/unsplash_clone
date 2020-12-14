@@ -8,5 +8,3 @@ export default axios.create({
   },
 });
 
-
-//"Client-ID T7mBgHLfHLVrdT8OTyypfE3AAhGjvdt0G_rfbDqpjiI"
