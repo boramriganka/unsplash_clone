@@ -1,6 +1,6 @@
 
 
-# Food-Mood
+# UNSPLASH CLONE
 
 It is a lite version of unsplash App.It is built using React.
 
