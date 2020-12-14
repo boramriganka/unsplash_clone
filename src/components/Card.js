@@ -18,7 +18,6 @@ class Card extends React.Component {
   };
 
   render() {
-        const {likes} = this.props;
     return (
   
       <div  className="card"style={{ gridRowEnd: `span ${this.state.spans}` }}>
